@@ -12,7 +12,7 @@
     <rect x="831" y="64" width="5" height="18" fill="#F1E05A"/>
   </g>
   <circle cx="29" cy="113" r="5" fill="#3776AB"/><text x="43" y="117" class="mono" font-size="12">Python</text><text x="243" y="117" class="mono" font-size="12" fill="#A99FC0">92.8%</text>
-  <circle cx="305" cy="113" r="5" fill="#4CC3E0"/><text x="319" y="117" class="mono" font-size="12">TypeScript</text><text x="519" y="117" class="mono" font-size="12" fill="#A99FC0">5.0%</text>
+  <circle cx="305" cy="113" r="5" fill="#4CC3E0"/><text x="319" y="117" class="mono" font-size="12">TypeScript</text><text x="519" y="117" class="mono" font-size="12" fill="#A99FC0">4.9%</text>
   <circle cx="581" cy="113" r="5" fill="#B7472A"/><text x="595" y="117" class="mono" font-size="12">PowerShell</text><text x="795" y="117" class="mono" font-size="12" fill="#A99FC0">1.6%</text>
   <circle cx="29" cy="148" r="5" fill="#F1E05A"/><text x="43" y="152" class="mono" font-size="12">JavaScript</text><text x="243" y="152" class="mono" font-size="12" fill="#A99FC0">0.7%</text>
 </svg>
