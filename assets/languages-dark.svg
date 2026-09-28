@@ -7,12 +7,12 @@
   <defs><clipPath id="bar"><rect x="24" y="64" width="812" height="18" rx="9"/></clipPath></defs>
   <g clip-path="url(#bar)">
     <rect x="24" y="64" width="748" height="18" fill="#3776AB"/>
-    <rect x="774" y="64" width="40" height="18" fill="#4CC3E0"/>
-    <rect x="816" y="64" width="13" height="18" fill="#B7472A"/>
-    <rect x="831" y="64" width="5" height="18" fill="#F1E05A"/>
+    <rect x="774" y="64" width="39" height="18" fill="#4CC3E0"/>
+    <rect x="815" y="64" width="12" height="18" fill="#B7472A"/>
+    <rect x="829" y="64" width="7" height="18" fill="#38BDF8"/>
   </g>
   <circle cx="29" cy="113" r="5" fill="#3776AB"/><text x="43" y="117" class="mono" font-size="12">Python</text><text x="243" y="117" class="mono" font-size="12" fill="#A99FC0">92.8%</text>
-  <circle cx="305" cy="113" r="5" fill="#4CC3E0"/><text x="319" y="117" class="mono" font-size="12">TypeScript</text><text x="519" y="117" class="mono" font-size="12" fill="#A99FC0">4.9%</text>
+  <circle cx="305" cy="113" r="5" fill="#4CC3E0"/><text x="319" y="117" class="mono" font-size="12">TypeScript</text><text x="519" y="117" class="mono" font-size="12" fill="#A99FC0">4.8%</text>
   <circle cx="581" cy="113" r="5" fill="#B7472A"/><text x="595" y="117" class="mono" font-size="12">PowerShell</text><text x="795" y="117" class="mono" font-size="12" fill="#A99FC0">1.6%</text>
-  <circle cx="29" cy="148" r="5" fill="#F1E05A"/><text x="43" y="152" class="mono" font-size="12">JavaScript</text><text x="243" y="152" class="mono" font-size="12" fill="#A99FC0">0.7%</text>
+  <circle cx="29" cy="148" r="5" fill="#38BDF8"/><text x="43" y="152" class="mono" font-size="12">Other</text><text x="243" y="152" class="mono" font-size="12" fill="#A99FC0">0.8%</text>
 </svg>
